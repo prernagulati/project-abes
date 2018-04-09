@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Prerna Gulati/project/workspace/ShopAround1/WebContent/WEB-INF/lib/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prerna Gulati/project/workspace/ShopAround1/WebContent/WEB-INF/lib/bootstrap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prerna Gulati/project/workspace/ShopAround1/WebContent/WEB-INF/lib/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prerna Gulati/project/workspace/ShopAround1/WebContent/WEB-INF/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prerna Gulati/project/workspace/ShopAround1/WebContent/WEB-INF/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prerna Gulati/project/workspace/ShopAround1/WebContent/WEB-INF/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prerna Gulati/project/workspace/ShopAround1/WebContent/WEB-INF/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prerna Gulati/project/workspace/ShopAround1/WebContent/WEB-INF/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prerna Gulati/project/workspace/ShopAround1/WebContent/WEB-INF/lib/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prerna Gulati/project/workspace/ShopAround1/WebContent/WEB-INF/lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prerna Gulati/project/workspace/ShopAround1/WebContent/WEB-INF/lib/servlet-api.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
